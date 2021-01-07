@@ -91,4 +91,104 @@ var invitations = [
         id: "72fcaa14-b352-11e8-96f8-529269fb1459",
         name: "Ukhtyfillah Tahajjud Call NTB"
     },
+    {
+        id: "72fcac4e-b352-11e8-96f8-529269fb1459",
+        name: "Ustadzah Alfiatun"
+    },
+    {
+        id: "72fcae7e-b352-11e8-96f8-529269fb1459",
+        name: "Tim Holaqoh Tacall"
+    },
+    {
+        id: "72fcb0ae-b352-11e8-96f8-529269fb1459",
+        name: "Hj Rahmi Lestari"
+    },
+    {
+        id: "72fcb540-b352-11e8-96f8-529269fb1459",
+        name: "Pengurus Mualaf Center"
+    },
+    {
+        id: "72fcb798-b352-11e8-96f8-529269fb1459",
+        name: "Ummun Tuti"
+    },
+    {
+        id: "72fcba36-b352-11e8-96f8-529269fb1459",
+        name: "WBS"
+    },
+    {
+        id: "72fcbc8e-b352-11e8-96f8-529269fb1459",
+        name: "Suci Ramadhania"
+    },
+    {
+        id: "72fcbf18-b352-11e8-96f8-529269fb1459",
+        name: "Yudi dan Gana"
+    },
+    {
+        id: "72fcc490-b352-11e8-96f8-529269fb1459",
+        name: "Nindya Wahyu Almira"
+    },
+    {
+        id: "72fcc6fc-b352-11e8-96f8-529269fb1459",
+        name: "Fanny Rizkya"
+    },
+    {
+        id: "72fcc940-b352-11e8-96f8-529269fb1459",
+        name: "Kak Diah"
+    },
+    {
+        id: "72fccb7a-b352-11e8-96f8-529269fb1459",
+        name: "Warida"
+    },
+    {
+        id: "72fccdaa-b352-11e8-96f8-529269fb1459",
+        name: "Kak Uun"
+    },
+    {
+        id: "72fccfda-b352-11e8-96f8-529269fb1459",
+        name: "Kak Eka"
+    },
+    {
+        id: "72fcd21e-b352-11e8-96f8-529269fb1459",
+        name: "Ms khadijah"
+    },
+    {
+        id: "72fcd746-b352-11e8-96f8-529269fb1459",
+        name: "Ustadzah iffa"
+    },
+    {
+        id: "72fcd994-b352-11e8-96f8-529269fb1459",
+        name: "Tami"
+    },
+    {
+        id: "72fce33a-b352-11e8-96f8-529269fb1459",
+        name: "Nabila putri Kusuma citra Dewi"
+    },
+    {
+        id: "72fce81c-b352-11e8-96f8-529269fb1459",
+        name: "Ernawati hasanah"
+    },
+    {
+        id: "72fcea7e-b352-11e8-96f8-529269fb1459",
+        name: "Ade Pranita"
+    },
+    {
+        id: "72fd159e-b352-11e8-96f8-529269fb1459",
+        name: "Nira Suci Yulianti"
+    },
+    {
+        id: "72fd1ae4-b352-11e8-96f8-529269fb1459",
+        name: "Ginayatul Amjad"
+    },
+    {
+        id: "72fd1d46-b352-11e8-96f8-529269fb1459",
+        name: "Rafika"
+    },
+    {
+        id: "72fd1f80-b352-11e8-96f8-529269fb1459",
+        name: "Selfina Apriniza"
+    },
+    {
+        id: "72fd21ba-b352-11e8-96f8-529269fb1459",
+        name: "Isrami Putri"
+    }
 ]
