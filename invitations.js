@@ -190,5 +190,37 @@ var invitations = [
     {
         id: "72fd21ba-b352-11e8-96f8-529269fb1459",
         name: "Isrami Putri"
+    },
+    {
+        id: "72fd2412-b352-11e8-96f8-529269fb1459",
+        name: "Musyrif Ma'had Madinatul Qur'an"
+    },
+    {
+        id: "72fd264c-b352-11e8-96f8-529269fb1459",
+        name: "Asatidzah Ma'had Madinatul Qur'an"
+    },
+    {
+        id: "72fd2c0a-b352-11e8-96f8-529269fb1459",
+        name: "Ustadz Fauzan Abdillah, Lc. MA"
+    },
+    {
+        id: "72fd2ec6-b352-11e8-96f8-529269fb1459",
+        name: "Ustadz Arfan Hamdani,S.Pd.I"
+    },
+    {
+        id: "72fd311e-b352-11e8-96f8-529269fb1459",
+        name: "Angkatan 6 SMP Luqmanul Hakim Kudus"
+    },
+    {
+        id: "72fd336c-b352-11e8-96f8-529269fb1459",
+        name: "Alumni MA Al Kahfi Surakarta"
+    },
+    {
+        id: "72fd35ba-b352-11e8-96f8-529269fb1459",
+        name: "Asatidzah Ponpes Al Kahfi Surakarta"
+    },
+    {
+        id: "72fd37ea-b352-11e8-96f8-529269fb1459",
+        name: "Asatidzah SMP Luqmanul Hakim"
     }
 ]
